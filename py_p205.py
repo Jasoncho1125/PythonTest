@@ -4,4 +4,4 @@ def get_sum(start, end):
         sum += i
     return sum
 
-print(get_sum(1,10))
+print(get_sum(1,20))
